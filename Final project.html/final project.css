@@ -1,0 +1,20 @@
+body     {background-color:#C5FFFD;
+		font-family: "Open Sans Condensed", sans-serif;
+		font-size: 28px}
+
+th, td {
+  padding: 20px;
+}
+
+h1	 {background: #1a181b;
+    display: table;
+    color: #fff;
+    font-family: "Open Sans Condensed", sans-serif;
+    font-weight: 700;
+ 	  text-align: center}
+
+h2       {font-size:20px; 
+	font-family: "Montserrat", sans-serif;
+	  text-align:center; 
+	  text-wrap:normal; 
+	  word-wrap:break-word;}
